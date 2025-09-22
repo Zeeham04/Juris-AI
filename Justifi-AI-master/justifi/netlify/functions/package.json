@@ -1,0 +1,10 @@
+{
+    "name": "justifi-functions",
+    "version": "1.0.0",
+    "description": "Serverless functions for Justifi AI",
+    "main": "chat.js",
+    "dependencies": {
+        "@google/generative-ai": "^0.2.0",
+        "dotenv": "^16.4.7"
+    }
+}
